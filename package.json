@@ -1,0 +1,19 @@
+{
+  "name": "learner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoufalin/javascript_ES6_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoufalin/javascript_ES6_study/issues"
+  },
+  "homepage": "https://github.com/zhoufalin/javascript_ES6_study#readme"
+}
